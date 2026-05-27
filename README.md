@@ -11,7 +11,7 @@
 
 # 🧾 Project Overview
 
-This project presents an interactive **Sales Analysis Dashboard** created using **Tableau**.  
+This project is part of the CodeAlpha Data Analytics Internship. This project presents an interactive **Sales Analysis Dashboard** created using **Tableau**.  
 The dashboard helps analyze:
 
 - 📈 Total Sales & Profit
@@ -183,5 +183,5 @@ Give this repository a ⭐ on GitHub!
 
 # 🏷️ Hashtags
 
-#Tableau #DataAnalytics #SalesDashboard #BusinessIntelligence #DataVisualization #Dashboard #Analytics #MIS #DataAnalyst #TableauPublic
+#CodeAlpha #Tableau #DataAnalytics #SalesDashboard #BusinessIntelligence #DataVisualization #Dashboard #Analytics #MIS #DataAnalyst #TableauPublic
 
