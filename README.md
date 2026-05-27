@@ -11,7 +11,7 @@
 
 # 🧾 Project Overview
 
-This project is part of the CodeAlpha Data Analytics Internship. This project presents an interactive **Sales Analysis Dashboard** created using **Tableau**.  
+This project is part of the **CodeAlpha Data Analytics Internship**. This project presents an interactive **Sales Analysis Dashboard** created using **Tableau**.  
 The dashboard helps analyze:
 
 - 📈 Total Sales & Profit
